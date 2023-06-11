@@ -1,4 +1,4 @@
-**Ingredients** for 4 servings
+#### **Ingredients** for 4 servings
 
 - ½ cup low sodium soy sauce (120 mL)
 - 3 tablespoons water
