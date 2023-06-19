@@ -1,5 +1,7 @@
 #### **Ingredients** for 4 servings
 
+Let's begin!
+
 - ½ cup low sodium soy sauce (120 mL)
 - 3 tablespoons water
 - ½ tablespoon garlic, minced
@@ -15,3 +17,5 @@
 - 2 cups cooked brown rice (460 g), for serving
 - sesame seed, for garnish
 - green onion, for garnish
+
+Enjoy my recipe!
