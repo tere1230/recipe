@@ -18,3 +18,5 @@ last line changed locally
 
 **bold**
 *italic*
+
+<img src="recipe.png">
