@@ -12,3 +12,6 @@ last line changed locally
 
 - order list
 - unorder list 
+
+**bold**
+*italic*
