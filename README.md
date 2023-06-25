@@ -15,3 +15,6 @@ last line changed locally
 3. order list 3
 - unorder list A
 - unorder list B
+
+**bold**
+*italic*
